@@ -39,7 +39,7 @@ One goal will be to make these descriptions
 2. Easy to read and understand
 3. Informative enough
 
-Based on difficulties of the "opponents", different levels can be created. Users can then get a better objective in clearing the game and be more motivated to play with all different opponents with greater fun. 
+Based on the difficulties of the "opponents", different levels can be created. For example, level 1 can be a stage with classical computer and the hardest level can be a stage with real quantum machine with the highest noise level. By progressing through levels, users can then get a better objective in clearing the game and be more motivated to play with all different opponents with greater fun. 
 
 ### Adding noise into the game 
 
