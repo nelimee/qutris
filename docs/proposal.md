@@ -38,4 +38,16 @@ How feasible and effective is the work plan within the timeframe considering the
 How coherent and structured is the proposal? 
 
 
+## Slide content
+
+### Criterion 1 - Excellence
+Weight: **40.00%**
+
+
+### Criterion 2 - Impact
+Weight: **30.00%**
+
+
+### Criterion 3 - Implementation
+Weight: **30.00%**
 
