@@ -39,6 +39,8 @@ One goal will be to make these descriptions
 2. Easy to read and understand
 3. Informative enough
 
+Based on difficulties of the "opponents", different levels can be created. Users can then get a better objective in clearing the game and be more motivated to play with all different opponents with greater fun. 
+
 ### Adding noise into the game 
 
 In order for players to grasp the idea of quantum noise, `qutris` might make possible for players to chose the type(s) of noise they want to include in their game. Types of noise include:
