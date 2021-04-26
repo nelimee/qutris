@@ -15,5 +15,6 @@ The project should focus on two things:
 
 ## Useful links:
 
-1. [Resources for the project](./docs/resources.md)
-2. [Ideas](./docs/ideas.md)
+1. [Ideas](./docs/ideas.md)
+2. [Resources for the project](./docs/resources.md)
+3. [Proposal](./docs/proposal.md)
