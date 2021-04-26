@@ -70,4 +70,12 @@ Error-mitigation can be used to lower down the impact of noise on the tetriminos
 
 It can be seen as a power-up, for example when one perform a tetris.
 
+## Resources
 
+### Game engines
+
+|                         Engine                         | Multi-platform |               Installation               | 
+| :----------------------------------------------------: | :------------: | :--------------------------------------: |
+| [pygame](https://www.pygame.org/news)                  | Yes            | Needs a Python interpreter               |
+| [godot](https://godotengine.org/)                      | Yes            | Seems simpler                            |
+| [qisge](https://github.com/qiskit-community/Qisge)     | Yes            | Needs a Python interpreter               |
