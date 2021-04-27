@@ -40,14 +40,19 @@ How coherent and structured is the proposal?
 
 ## Slide content
 
-### Criterion 1 - Excellence
-Weight: **40.00%**
+### Slide 1 - Project Idea
+- Which field of quantum computing is your proposal about? 
+- Which is the topic of your proposal? 
+- Which question/s do you want to address? 
+- Provide a technical description of the proposal. 
 
+### Slide 2 - Impact and Goals
+- What would you like to achieve with this proposal? 
+- Which value does this proposal bring to the specific field of interest (QML/ quantum games...) and to the wider quantum computing field? 
+- How novel is your proposal? 
+- Which are the near-term and long-term goals for this proposal?   
 
-### Criterion 2 - Impact
-Weight: **30.00%**
-
-
-### Criterion 3 - Implementation
-Weight: **30.00%**
-
+### Slide 3 - Implementation Plan: Timeline, Tasks, & Resources
+- What are the phases/steps of your project? Build the timeline of your project based on the deadline for each phase.
+- Which skills are required for each phase? Who in your team has these skills? How do you plan to divide the tasks within your team? 
+- Which resources do you plan to use for developing your project? (Qiskit libraries/modules, game engines, research papers references, etc) 
