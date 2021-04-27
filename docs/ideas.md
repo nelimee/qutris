@@ -57,3 +57,7 @@ For the real backend, different quantum circuits for the different sources of no
 Error-mitigation can be used to lower down the impact of noise on the tetriminos. 
 
 It can be seen as a power-up, for example when one perform a tetris.
+
+Possibility to have as powerups:
+- Instead of changing the block shapes, add power-ups blocks when the noisy circuits output a |1>.
+- Still change the block shape **but** mark the changed block as a power-up.
