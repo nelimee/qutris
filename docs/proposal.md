@@ -46,13 +46,24 @@ How coherent and structured is the proposal?
 - Which question/s do you want to address? 
 - Provide a technical description of the proposal. 
 
+Main idea: implementing a tetris game that teaches several quantum concepts while still being fun.
+Which fields:
+    - Quantum noise
+    - Quantum simulator and noise models
+    - Error mitigation
+    - Education
+Quantum tetris game where the tetriminos may be impacted by noise of the underlying quantum chip. The game will include several texts and links about quantum noise, the differences between a simulator and a real hardware, the possibilities of error mitigation, etc...
+
+
 ### Slide 2 - Impact and Goals
 - What would you like to achieve with this proposal? 
-- Which value does this proposal bring to the specific field of interest (QML/ quantum games...) and to the wider quantum computing field? 
-- How novel is your proposal? 
-- Which are the near-term and long-term goals for this proposal?   
+- Which value does this proposal bring to the specific field of interest (QML/ quantum games...) and to the wider quantum computing field?
+- How novel is your proposal?
+- Which are the near-term and long-term goals for this proposal?
+
 
 ### Slide 3 - Implementation Plan: Timeline, Tasks, & Resources
 - What are the phases/steps of your project? Build the timeline of your project based on the deadline for each phase.
 - Which skills are required for each phase? Who in your team has these skills? How do you plan to divide the tasks within your team? 
 - Which resources do you plan to use for developing your project? (Qiskit libraries/modules, game engines, research papers references, etc) 
+
