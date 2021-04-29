@@ -1,6 +1,6 @@
 # Resources for `qutris`
 
-## Possible Game engines
+## Possible game engines
 
 |                         Engine                                | Multi-platform |               Advantages                             |  Disadvantages |
 | :-----------------------------------------------------------: | :------------: | :--------------------------------------:             | :------------: |
