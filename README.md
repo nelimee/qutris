@@ -20,4 +20,3 @@ The project should focus on two things:
 
 1. [Ideas](./docs/ideas.md)
 2. [Resources for the project](./docs/resources.md)
-3. [Proposal](./docs/proposal.md)
