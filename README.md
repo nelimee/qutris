@@ -1,6 +1,6 @@
 # Qutris
 
-Main git repository for the qutris project, an educational Tetris game that uses quantum computing in random selection of tetrimino block and generation of noise in the blocks' shapes. 
+This is a main git repository for the qutris project, an educational Tetris game that uses quantum computing in random selection of tetrimino block and generation of noise in the blocks' shapes. 
 
 ## Focus of the project
 
